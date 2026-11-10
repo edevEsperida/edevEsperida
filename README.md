@@ -79,7 +79,7 @@
 </p>
 
 <details>
-<summary align="center"><b>🎓 College & practice projects</b></summary>
+<summary><b>🎓 College & practice projects</b></summary>
 <br>
 
 | Project | What it is | Language |
