@@ -1,25 +1,25 @@
 <p align="center">
-  <img src="banner1.svg" alt="Doms, full-stack developer — pixel-art race car banner" width="100%" />
+  <img src="banner1.svg" alt="Doms, full-stack developer — pixel-art banner" width="100%" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=14&pause=1200&color=3EE0FF&center=true&vCenter=true&width=820&lines=Full-stack+developer+from+the+Philippines;Building+systems+for+BISCAST;ASP.NET+MVC+%7C+Laravel+%7C+React+%7C+Flutter;Currently+building%3A+Paper+Trail" alt="Typing intro" />
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=14&pause=1200&color=2DD4BF&center=true&vCenter=true&width=820&lines=Full-stack+developer+from+the+Philippines;Building+systems+for+BISCAST;ASP.NET+MVC+%7C+Laravel+%7C+React+%7C+Flutter;Currently+building%3A+Paper+Trail" alt="Typing intro" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=edevEsperida&style=for-the-badge&color=ff4fd8&label=Profile+views" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=edevEsperida&style=for-the-badge&color=2dd4bf&label=Profile+views" alt="Profile views" />
 </p>
 
-## Connect with me 🏁
+## Connect with me 🤝
 
 <p align="center">
   <a href="mailto:edesperida27@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://www.linkedin.com/in/edesperida"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://www.facebook.com/clancyisdead"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>
-  <a href="https://edesperida-portfolio.vercel.app"><img src="https://img.shields.io/badge/Portfolio-120F2E?style=for-the-badge&logo=react&logoColor=3EE0FF" alt="Portfolio" /></a>
+  <a href="https://edesperida-portfolio.vercel.app"><img src="https://img.shields.io/badge/Portfolio-111A2E?style=for-the-badge&logo=react&logoColor=2DD4BF" alt="Portfolio" /></a>
 </p>
 
-## About me 🏎️
+## About me 👋
 
 <img align="right" src="helmet.svg" alt="Pixel-art racing helmet" width="200" />
 
@@ -101,11 +101,11 @@
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=edevEsperida&background=120F2E&ring=FF4FD8&fire=FF4FD8&currStreakNum=3EE0FF&currStreakLabel=3EE0FF&sideNums=E2D9FF&sideLabels=B8A8F0&dates=B8A8F0&stroke=2B1A61&hide_border=true" alt="Contribution streak" />
+  <img src="https://streak-stats.demolab.com?user=edevEsperida&background=111A2E&ring=2DD4BF&fire=F5B942&currStreakNum=EEF2F7&currStreakLabel=2DD4BF&sideNums=EEF2F7&sideLabels=8FA0BD&dates=8FA0BD&stroke=24324F&hide_border=true" alt="Contribution streak" />
 </p>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/edevEsperida/edevEsperida/output/snake.svg" alt="Snake eating my contribution graph" />
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3ee0ff,100:ff4fd8&height=120&section=footer" alt="" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2dd4bf,100:60a5fa&height=120&section=footer" alt="" width="100%" />
