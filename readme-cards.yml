@@ -20,7 +20,7 @@ jobs:
         uses: stats-organization/github-readme-stats-action@v2
         with:
           card: stats
-          options: username=${{ github.repository_owner }}&show_icons=true&include_all_commits=true&bg_color=120f2e&title_color=3ee0ff&text_color=e2d9ff&icon_color=ff4fd8&ring_color=ff4fd8&hide_border=true
+          options: username=${{ github.repository_owner }}&show_icons=true&include_all_commits=true&bg_color=111a2e&title_color=2dd4bf&text_color=c7d2e3&icon_color=2dd4bf&ring_color=2dd4bf&hide_border=true
           path: profile/stats.svg
           token: ${{ secrets.README_STATS_TOKEN || secrets.GITHUB_TOKEN }}
 
@@ -28,7 +28,7 @@ jobs:
         uses: stats-organization/github-readme-stats-action@v2
         with:
           card: top-langs
-          options: username=${{ github.repository_owner }}&layout=compact&langs_count=8&size_weight=0.5&count_weight=0.5&bg_color=120f2e&title_color=3ee0ff&text_color=e2d9ff&hide_border=true
+          options: username=${{ github.repository_owner }}&layout=compact&langs_count=8&size_weight=0.5&count_weight=0.5&bg_color=111a2e&title_color=2dd4bf&text_color=c7d2e3&hide_border=true
           path: profile/top-langs.svg
           token: ${{ secrets.README_STATS_TOKEN || secrets.GITHUB_TOKEN }}
 
@@ -36,7 +36,7 @@ jobs:
         uses: stats-organization/github-readme-stats-action@v2
         with:
           card: pin
-          options: username=${{ github.repository_owner }}&repo=paper-trail&bg_color=120f2e&title_color=3ee0ff&text_color=e2d9ff&icon_color=ff4fd8&hide_border=true
+          options: username=${{ github.repository_owner }}&repo=paper-trail&bg_color=111a2e&title_color=2dd4bf&text_color=c7d2e3&icon_color=2dd4bf&hide_border=true
           path: profile/pin-paper-trail.svg
           token: ${{ secrets.README_STATS_TOKEN || secrets.GITHUB_TOKEN }}
 
@@ -44,7 +44,7 @@ jobs:
         uses: stats-organization/github-readme-stats-action@v2
         with:
           card: pin
-          options: username=${{ github.repository_owner }}&repo=portfolio&bg_color=120f2e&title_color=3ee0ff&text_color=e2d9ff&icon_color=ff4fd8&hide_border=true
+          options: username=${{ github.repository_owner }}&repo=portfolio&bg_color=111a2e&title_color=2dd4bf&text_color=c7d2e3&icon_color=2dd4bf&hide_border=true
           path: profile/pin-portfolio.svg
           token: ${{ secrets.README_STATS_TOKEN || secrets.GITHUB_TOKEN }}
 
@@ -52,7 +52,7 @@ jobs:
         uses: stats-organization/github-readme-stats-action@v2
         with:
           card: pin
-          options: username=${{ github.repository_owner }}&repo=Park-In&bg_color=120f2e&title_color=3ee0ff&text_color=e2d9ff&icon_color=ff4fd8&hide_border=true
+          options: username=${{ github.repository_owner }}&repo=Park-In&bg_color=111a2e&title_color=2dd4bf&text_color=c7d2e3&icon_color=2dd4bf&hide_border=true
           path: profile/pin-park-in.svg
           token: ${{ secrets.README_STATS_TOKEN || secrets.GITHUB_TOKEN }}
 
