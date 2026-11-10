@@ -6,9 +6,12 @@
   <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=14&pause=1200&color=3EE0FF&center=true&vCenter=true&width=820&lines=Full-stack+developer+from+the+Philippines;Building+systems+for+BISCAST;ASP.NET+MVC+%7C+Laravel+%7C+React+%7C+Flutter;Currently+building%3A+Paper+Trail" alt="Typing intro" />
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=edevEsperida&style=for-the-badge&color=ff4fd8&label=Profile+views" alt="Profile views" />
+</p>
+
 ## Connect with me 🏁
 
-<!-- Replace the links below with your own, or delete the ones you don't use. -->
 <p align="center">
   <a href="mailto:edesperida27@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://www.linkedin.com/in/edesperida"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
@@ -26,7 +29,7 @@
 - 🌐 Web apps with **ASP.NET MVC**, **Laravel** and **React**
 - 📱 Mobile apps with **Flutter**
 - 🎮 Built **Unity** games back in college
-- 📫 Reach me at **your.email@example.com**
+- 📫 Reach me at **[edesperida27@gmail.com](mailto:edesperida27@gmail.com)**
 
 <br clear="right" />
 
@@ -102,11 +105,15 @@
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=edevEsperida&theme=radical&no-frame=true&no-bg=true&column=-1&margin-w=8" alt="GitHub trophies" />
+  <img src="https://github-profile-trophy-tawny.vercel.app/?username=edevEsperida&theme=radical&no-frame=true&no-bg=true&column=-1&margin-w=8" alt="GitHub trophies" />
 </p>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/edevEsperida/edevEsperida/output/snake.svg" alt="Snake eating my contribution graph" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/edevEsperida/edevEsperida/main/dist/pet.svg" alt="My GitHub pet" width="100%" />
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3ee0ff,100:ff4fd8&height=120&section=footer" alt="" width="100%" />
