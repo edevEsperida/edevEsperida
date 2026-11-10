@@ -105,7 +105,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy-tawny.vercel.app/?username=edevEsperida&theme=radical&no-frame=true&no-bg=true&column=-1&margin-w=8" alt="GitHub trophies" />
+  <img src="./profile/trophy.svg" alt="GitHub trophies" />
 </p>
 
 <p align="center">
