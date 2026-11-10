@@ -1,13 +1,13 @@
-<p align="center">
+<!-- <p align="center">
   <img src="banner.svg" alt="Doms, full-stack developer — pixel-art banner" width="100%" />
-</p>
+</p> -->
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/edevEsperida/edevEsperida/output/snake.svg" alt="Snake eating my contribution graph" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=14&pause=1200&color=2DD4BF&center=true&vCenter=true&width=820&lines=Full-stack+developer+from+the+Philippines;Building+systems+for+BISCAST;ASP.NET+MVC+%7C+Laravel+%7C+React+%7C+Flutter;Currently+building%3A+Paper+Trail" alt="Typing intro" />
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=14&pause=1200&color=2DD4BF&center=true&vCenter=true&width=820&lines=Software+Developer+from+the+Philippines;Building+systems+for+BISCAST;ASP.NET+MVC+%7C+%7C+React+%7C+Flutter;Currently+building%3A+Paper+Trail" alt="Typing intro" />
 </p>
 
 <p align="center">
