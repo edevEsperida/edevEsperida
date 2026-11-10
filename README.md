@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="banner1.svg" alt="Doms, full-stack developer — pixel-art banner" width="100%" />
+  <img src="banner.svg" alt="Doms, full-stack developer — pixel-art banner" width="100%" />
 </p>
 
 <p align="center">
