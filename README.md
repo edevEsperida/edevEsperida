@@ -3,6 +3,10 @@
 </p>
 
 <p align="center">
+  <img src="https://raw.githubusercontent.com/edevEsperida/edevEsperida/output/snake.svg" alt="Snake eating my contribution graph" />
+</p>
+
+<p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=14&pause=1200&color=2DD4BF&center=true&vCenter=true&width=820&lines=Full-stack+developer+from+the+Philippines;Building+systems+for+BISCAST;ASP.NET+MVC+%7C+Laravel+%7C+React+%7C+Flutter;Currently+building%3A+Paper+Trail" alt="Typing intro" />
 </p>
 
@@ -102,10 +106,6 @@
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=edevEsperida&background=111A2E&ring=2DD4BF&fire=F5B942&currStreakNum=EEF2F7&currStreakLabel=2DD4BF&sideNums=EEF2F7&sideLabels=8FA0BD&dates=8FA0BD&stroke=24324F&hide_border=true" alt="Contribution streak" />
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/edevEsperida/edevEsperida/output/snake.svg" alt="Snake eating my contribution graph" />
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2dd4bf,100:60a5fa&height=120&section=footer" alt="" width="100%" />
