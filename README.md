@@ -78,7 +78,7 @@
   <a href="https://github.com/edevEsperida/Park-In"><img src="./profile/pin-park-in.svg" alt="Park-In" /></a>
 </p>
 
-<details>
+<details align="center">
 <summary><b>🎓 College & practice projects</b></summary>
 <br>
 
