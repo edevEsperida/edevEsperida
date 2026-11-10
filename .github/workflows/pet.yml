@@ -1,0 +1,19 @@
+name: GitHub pet
+
+on:
+  schedule:
+    - cron: "23 */6 * * *" # every 6 hours
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  pet:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v6
+      - uses: prsdx/github-pet@v1
+        with:
+          username: edevEsperida
+          timezone-offset-minutes: "480" # Philippines (UTC+8)
