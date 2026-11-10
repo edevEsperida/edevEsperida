@@ -84,14 +84,9 @@
 
 | Project | What it is | Language |
 |---|---|---|
-| 🔒 **Unity Game Dev** (2D-Game, UNITY, UNITY-LATEST, Unity-Game-Dev) | Game development projects built in Unity | C# · ShaderLab |
 | [**TicTacToe**](https://github.com/edevEsperida/TicTacToe) | Browser-based Tic-Tac-Toe game | JavaScript |
 | [**HoneyLight**](https://github.com/edevEsperida/HoneyLight) | Static website project | HTML · CSS |
 | [**uplift**](https://github.com/edevEsperida/uplift) | Web design project | CSS · HTML |
-| 🔒 **shop** | Online shop layout | CSS · HTML |
-| 🔒 **ITMC223-2023** | Coursework for Integrative Programming and Technologies 1 | Java |
-| 🔒 **ITMC221-2023** | Programming coursework | C |
-| 🔒 **Midterms** | Midterm project | C# |
 
 </details>
 
