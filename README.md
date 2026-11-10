@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/banner.svg" alt="Doms, full-stack developer — pixel-art race car banner" width="100%" />
+  <img src="banner.svg" alt="Doms, full-stack developer — pixel-art race car banner" width="100%" />
 </p>
 
 <p align="center">
@@ -18,7 +18,7 @@
 
 ## About me 🏎️
 
-<img align="right" src="assets/helmet.svg" alt="Pixel-art racing helmet" width="200" />
+<img align="right" src="helmet.svg" alt="Pixel-art racing helmet" width="200" />
 
 - 🧑‍💻 Full-stack developer from the Philippines
 - 🏫 Building systems for **BISCAST**: alumni tracking and examination assessment
