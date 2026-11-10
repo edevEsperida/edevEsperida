@@ -108,8 +108,4 @@
   <img src="https://raw.githubusercontent.com/edevEsperida/edevEsperida/output/snake.svg" alt="Snake eating my contribution graph" />
 </p>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/edevEsperida/edevEsperida/main/dist/pet.svg" alt="My GitHub pet" width="100%" />
-</p>
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3ee0ff,100:ff4fd8&height=120&section=footer" alt="" width="100%" />
