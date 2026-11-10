@@ -14,28 +14,7 @@
   <img src="https://komarev.com/ghpvc/?username=edevEsperida&style=for-the-badge&color=2dd4bf&label=Profile+views" alt="Profile views" />
 </p>
 
-## Connect with me 🤝
-
-<p align="center">
-  <a href="mailto:edesperida27@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://www.linkedin.com/in/edesperida"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://www.facebook.com/clancyisdead"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>
-  <a href="https://edesperida-portfolio.vercel.app"><img src="https://img.shields.io/badge/Portfolio-111A2E?style=for-the-badge&logo=react&logoColor=2DD4BF" alt="Portfolio" /></a>
-</p>
-
-## About me 👋
-
-<img align="right" src="helmet.svg" alt="Pixel-art racing helmet" width="200" />
-
-- 🧑‍💻 Full-stack developer from the Philippines
-- 🏫 Building systems for **BISCAST**: alumni tracking and examination assessment
-- 📄 Working on **Paper Trail**, a document tracking system for institutions
-- 🌐 Web apps with **ASP.NET MVC**, **Laravel** and **React**
-- 📱 Mobile apps with **Flutter**
-- 🎮 Built **Unity** games back in college
-- 📫 Reach me at **[edesperida27@gmail.com](mailto:edesperida27@gmail.com)**
-
-<br clear="right" />
+<img align="center" src="helmet.svg" alt="Pixel-art racing helmet" width="200" />
 
 ## Tech stack 🔧
 
@@ -71,31 +50,9 @@
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </p>
 
-## Featured projects 🚀
-
-| Project | What it does | Language / Stack | Status |
-|---|---|---|---|
-| [**Paper Trail**](https://github.com/edevEsperida/paper-trail) | Web-based document tracking system that lets institutions follow the real-time status and movement of documents through internal workflows | JavaScript | 🟡 Work in progress |
-| [**Portfolio**](https://github.com/edevEsperida/portfolio) | Personal portfolio showcasing projects, skills and experience, with a responsive UI | TypeScript · React | ✅ Live |
-| [**Park-In**](https://github.com/edevEsperida/Park-In) | Parking app for mobile | Dart · Flutter | ✅ Completed |
-
-<p align="center">
-  <a href="https://github.com/edevEsperida/paper-trail"><img src="./profile/pin-paper-trail.svg" alt="paper-trail" /></a>
-  <a href="https://github.com/edevEsperida/portfolio"><img src="./profile/pin-portfolio.svg" alt="portfolio" /></a>
-  <a href="https://github.com/edevEsperida/Park-In"><img src="./profile/pin-park-in.svg" alt="Park-In" /></a>
-</p>
-
 <details>
 <summary><b>🎓 College & practice projects</b></summary>
 <br>
-
-| Project | What it is | Language |
-|---|---|---|
-| [**TicTacToe**](https://github.com/edevEsperida/TicTacToe) | Browser-based Tic-Tac-Toe game | JavaScript |
-| [**HoneyLight**](https://github.com/edevEsperida/HoneyLight) | Static website project | HTML · CSS |
-| [**uplift**](https://github.com/edevEsperida/uplift) | Web design project | CSS · HTML |
-
-</details>
 
 ## Stats 📊
 
