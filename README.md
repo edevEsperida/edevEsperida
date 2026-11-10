@@ -105,10 +105,6 @@
 </p>
 
 <p align="center">
-  <img src="./profile/trophy.svg" alt="GitHub trophies" />
-</p>
-
-<p align="center">
   <img src="https://raw.githubusercontent.com/edevEsperida/edevEsperida/output/snake.svg" alt="Snake eating my contribution graph" />
 </p>
 
