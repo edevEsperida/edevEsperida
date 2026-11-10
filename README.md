@@ -68,13 +68,9 @@
 
 | Project | What it does | Language / Stack | Status |
 |---|---|---|---|
-| 🔒 **BISCAST Alumni Tracking System** | Alumni tracking system and portal for the BISCAST Alumni Association | C# · ASP.NET MVC · Bootstrap | 🟢 Active |
-| 🔒 **BISCAST Examination Assessment System** | Manages examinations and assessments for BISCAST | C# · ASP.NET MVC | 🟢 Active |
 | [**Paper Trail**](https://github.com/edevEsperida/paper-trail) | Web-based document tracking system that lets institutions follow the real-time status and movement of documents through internal workflows | JavaScript | 🟡 Work in progress |
 | [**Portfolio**](https://github.com/edevEsperida/portfolio) | Personal portfolio showcasing projects, skills and experience, with a responsive UI | TypeScript · React | ✅ Live |
 | [**Park-In**](https://github.com/edevEsperida/Park-In) | Parking app for mobile | Dart · Flutter | ✅ Completed |
-
-<sub>🔒 Private repository — source not public.</sub>
 
 <p align="center">
   <a href="https://github.com/edevEsperida/paper-trail"><img src="./profile/pin-paper-trail.svg" alt="paper-trail" /></a>
