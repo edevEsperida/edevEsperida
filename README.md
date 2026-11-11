@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=14&pause=1200&color=2DD4BF&center=true&vCenter=true&width=820&lines=Software+Developer+from+the+Philippines;ASP.NET+MVC+%7C+%7C+React+%7C+Flutter;Currently+building%3A+Alumni+Portal+for+an+SUC" alt="Typing intro" />
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=14&pause=1200&color=2DD4BF&center=true&vCenter=true&width=820&lines=Software+Developer+from+the+Philippines;ASP.NET+MVC+%7C+%7C+React+%7C+Flutter" alt="Typing intro" />
 </p>
 
 <p align="center">
