@@ -1,6 +1,7 @@
 <!-- <p align="center">
   <img src="banner.svg" alt="Doms, full-stack developer — pixel-art banner" width="100%" />
 </p> -->
+## CONTRIBUTIONS 🌱
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/edevEsperida/edevEsperida/output/snake.svg" alt="Snake eating my contribution graph" />
