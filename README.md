@@ -14,9 +14,9 @@
   <img src="https://komarev.com/ghpvc/?username=edevEsperida&style=for-the-badge&color=2dd4bf&label=Profile+views" alt="Profile views" />
 </p>
 
-<p align="center">
+<!-- <p align="center">
 <img src="helmet.svg" alt="Pixel-art racing helmet" width="200" />
-</p>
+</p> -->
 
 ## Tech stack 🔧
 
