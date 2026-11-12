@@ -34,7 +34,7 @@ LABELS = {
 }
 
 # ---------------------------------------------------------------- COLORS
-TEAL, BLUE, NAVY = "#2DD4BF", "#60A5FA", "#111A2E"
+TEAL, BLUE = "#2DD4BF", "#60A5FA"
 THEMES = {
     # GitHub's own text colors, so the images sit naturally on each theme
     "dark": {"text": "#E6EDF3", "muted": "#9198A1", "accent": "#2DD4BF"},
@@ -163,23 +163,27 @@ def text_svg(face, text, size, tracking, color, pad_x=2, pad_y=3):
     return svg(w + pad_x * 2, h, f'<path fill="{color}" d="{d}"/>', text)
 
 
-def header_svg(black, book):
-    W, H = 1200, 256
-    wave = (
-        f"M0 0H{W}V196"
-        "C1080 236 960 250 820 222"
-        "C680 194 560 160 410 190"
-        "C270 218 120 246 0 206Z"
-    )
-    name_d, _ = black.path(NAME, 104, W / 2, 128, 0.06, anchor="middle")
-    sub_d, _ = book.path(SUBTITLE, 19, W / 2, 172, 0.16, anchor="middle")
+def header_svg(black, book, c):
+    """Minimal header: name, one short accent rule, subtitle. No background."""
+    name_size, sub_size = 72, 14
+    name_top, _ = black.vmetrics(name_size)
+    sub_top, sub_bot = book.vmetrics(sub_size)
+    name_w = black.layout(NAME, name_size, 0.08)[1]
+    sub_w = book.layout(SUBTITLE, sub_size, 0.22)[1]
+    W = max(name_w, sub_w) + 16
+    name_base = 6 + name_top
+    rule_y = name_base + 20
+    sub_base = rule_y + 3 + 18 + sub_top
+    H = sub_base + sub_bot + 6
+    name_d, _ = black.path(NAME, name_size, W / 2, name_base, 0.08, anchor="middle")
+    sub_d, _ = book.path(SUBTITLE, sub_size, W / 2, sub_base, 0.22, anchor="middle")
     body = (
         '<defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="0">'
         f'<stop offset="0" stop-color="{TEAL}"/><stop offset="1" stop-color="{BLUE}"/>'
         "</linearGradient></defs>"
-        f'<path fill="url(#g)" d="{wave}"/>'
-        f'<path fill="{NAVY}" d="{name_d}"/>'
-        f'<path fill="{NAVY}" fill-opacity=".82" d="{sub_d}"/>'
+        f'<path fill="{c["text"]}" d="{name_d}"/>'
+        f'<rect x="{W / 2 - 24:.2f}" y="{rule_y:.2f}" width="48" height="3" rx="1.5" fill="url(#g)"/>'
+        f'<path fill="{c["muted"]}" d="{sub_d}"/>'
     )
     return svg(W, H, body, f"{NAME}, {SUBTITLE.lower()}")
 
@@ -216,8 +220,9 @@ def main():
     f = lambda n: Face(os.path.join(a.fonts, f"Nord-{n}.ttf"))
     black, bold, book, regular = f("Black"), f("Bold"), f("Book"), f("Regular")
 
-    files = {"header.svg": header_svg(black, book)}
+    files = {}
     for theme, c in THEMES.items():
+        files[f"header-{theme}.svg"] = header_svg(black, book, c)
         files[f"tagline-{theme}.svg"] = tagline_svg(book, c["accent"])
         for key, text in TITLES.items():
             files[f"{key}-{theme}.svg"] = text_svg(bold, text, 17, 0.16, c["text"])

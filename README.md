@@ -1,6 +1,10 @@
 <!-- Header -->
 <p align="center">
-  <img src="./assets/header.svg" alt="Doms, software developer from the Philippines" width="100%" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/header-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/header-light.svg" />
+    <img src="./assets/header-light.svg" alt="Doms, software developer from the Philippines" />
+  </picture>
 </p>
 
 <p align="center">
@@ -95,6 +99,3 @@
     <img src="https://raw.githubusercontent.com/edevEsperida/edevEsperida/output/snake.svg" alt="Snake eating my contribution graph" />
   </picture>
 </p>
-
-<!-- Footer -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2dd4bf,100:60a5fa&height=110&section=footer" alt="" width="100%" />
