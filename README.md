@@ -1,61 +1,41 @@
-<!-- <p align="center">
-  <img src="banner.svg" alt="Doms, full-stack developer — pixel-art banner" width="100%" />
-</p> -->
-## CONTRIBUTIONS 🌱
-
+<!-- Header -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/edevEsperida/edevEsperida/output/snake.svg" alt="Snake eating my contribution graph" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2dd4bf,100:60a5fa&height=180&section=header&text=Hi%2C%20I%27m%20Doms&fontSize=42&fontColor=ffffff&fontAlignY=36&desc=Software%20developer%20from%20the%20Philippines&descSize=16&descAlignY=56&animation=fadeIn" alt="Hi, I'm Doms. Software developer from the Philippines" width="100%" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=14&pause=1200&color=2DD4BF&center=true&vCenter=true&width=820&lines=Software+Developer+from+the+Philippines;ASP.NET+MVC+%7C+%7C+React+%7C+Flutter" alt="Typing intro" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=3000&pause=1200&color=2DD4BF&center=true&vCenter=true&width=560&lines=Web+apps+with+ASP.NET+MVC+and+Laravel;Interfaces+with+React;Cross-platform+mobile+with+Flutter" alt="Web apps with ASP.NET MVC and Laravel, interfaces with React, cross-platform mobile with Flutter" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=edevEsperida&style=for-the-badge&color=2dd4bf&label=Profile+views" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=edevEsperida&style=flat-square&color=2dd4bf&label=profile+views" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/edevEsperida?style=flat-square&color=2dd4bf&labelColor=111a2e&label=followers" alt="Followers" />
 </p>
 
-<!-- <p align="center">
-<img src="helmet.svg" alt="Pixel-art racing helmet" width="200" />
-</p> -->
+<br />
 
-## TECH STACK 🔧
-
-**Languages**
+<!-- Tech stack -->
+<h3 align="center">Tech stack</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="C#" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="C" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css&logoColor=white" alt="CSS3" />
+  <sub>Languages</sub><br />
+  <img src="https://skillicons.dev/icons?i=cs,php,js,ts,dart,java,c,html,css&theme=dark" alt="C#, PHP, JavaScript, TypeScript, Dart, Java, C, HTML, CSS" />
 </p>
-
-**Frameworks & libraries**
 
 <p align="center">
-  <img src="https://img.shields.io/badge/ASP.NET_MVC-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="ASP.NET MVC" />
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
+  <sub>Frameworks and libraries</sub><br />
+  <img src="https://skillicons.dev/icons?i=dotnet,laravel,react,flutter,bootstrap&theme=dark" alt="ASP.NET MVC, Laravel, React, Flutter, Bootstrap" />
 </p>
-
-**Tools**
 
 <p align="center">
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge" alt="VS Code" />
-  <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge" alt="Visual Studio" />
-  <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white" alt="Unity" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <sub>Tools</sub><br />
+  <img src="https://skillicons.dev/icons?i=vscode,visualstudio,unity,git,github&theme=dark" alt="VS Code, Visual Studio, Unity, Git, GitHub" />
 </p>
 
-## STATS 📊
+<br />
+
+<!-- Stats -->
+<h3 align="center">GitHub stats</h3>
 
 <p align="center">
   <img src="./profile/stats.svg" alt="GitHub stats" height="175" />
@@ -66,4 +46,18 @@
   <img src="https://streak-stats.demolab.com?user=edevEsperida&background=111A2E&ring=2DD4BF&fire=F5B942&currStreakNum=EEF2F7&currStreakLabel=2DD4BF&sideNums=EEF2F7&sideLabels=8FA0BD&dates=8FA0BD&stroke=24324F&hide_border=true" alt="Contribution streak" />
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2dd4bf,100:60a5fa&height=120&section=footer" alt="" width="100%" />
+<br />
+
+<!-- Contributions -->
+<h3 align="center">Contributions</h3>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/edevEsperida/edevEsperida/output/snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/edevEsperida/edevEsperida/output/snake.svg" />
+    <img src="https://raw.githubusercontent.com/edevEsperida/edevEsperida/output/snake.svg" alt="Snake eating my contribution graph" />
+  </picture>
+</p>
+
+<!-- Footer -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2dd4bf,100:60a5fa&height=110&section=footer" alt="" width="100%" />
